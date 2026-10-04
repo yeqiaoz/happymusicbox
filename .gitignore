@@ -1,0 +1,8 @@
+# originals stay in Dropbox; the built site/ is committed
+assets/source/*.jpg
+assets/source/*.jpeg
+.DS_Store
+__pycache__/
+.claude/
+# Shuai's design mockup stays private
+432.jpg
